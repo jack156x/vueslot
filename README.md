@@ -239,8 +239,4 @@ OK，我们说有html模板的情况，就是父组件会往子组件插模板�
 如果本文对你理解slot和scope-slot有帮助，请不要吝啬手中的点赞哟。
 编程贵在实践，赶紧行动起来吧！
 
-### 关于作者
-
-[技术博客](https://cunzaizhuyi.github.io)  || [GitHub](https://github.com/cunzaizhuyi)  || [掘金主页](https://juejin.im/user/5934c9f5fe88c20061cc7058/posts)
-
 
